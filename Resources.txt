@@ -9,6 +9,10 @@ https://en.wikipedia.org/wiki/Lycoming_O-235
 ENGINE OVERVIEWS
 https://www.youtube.com/watch?v=gIdXLMVP6VU&ab_channel=ERAUSpecialVFR
 
+
+WARNING FOR MODEL:
+!!! Change native units to mm !!!
+
 NOTES
 Engine Bore/Stroke/Displacement is based off of the Rotax 192, but designed like the Lycoming O-235. The Lycoming O-235 is found
 in the Cessna 152, and has been manufactured from 1942 to present day. The 235 was choosen for its simplicity, and abundance of
