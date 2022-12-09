@@ -1,0 +1,76 @@
+3D MODELING
+https://www.youtube.com/watch?v=FeSI7zF2We8&ab_channel=INDEX3D
+
+ENGINE MATHEMATICS
+https://www.had2know.org/automotive/bore-stroke-displacement-calculator.html#:~:text=S%20%3D%204D%2F(%CF%80B%C2%B2N,bore%2C%20stroke%2C%20and%20displacement.
+https://en.wikipedia.org/wiki/Rotax
+https://en.wikipedia.org/wiki/Lycoming_O-235
+
+ENGINE OVERVIEWS
+https://www.youtube.com/watch?v=gIdXLMVP6VU&ab_channel=ERAUSpecialVFR
+
+NOTES
+Engine Bore/Stroke/Displacement is based off of the Rotax 192, but designed like the Lycoming O-235. The Lycoming O-235 is found
+in the Cessna 152, and has been manufactured from 1942 to present day. The 235 was choosen for its simplicity, and abundance of
+information including Diagrams, wiring layouts, and exploded part views. The Rotax 192 uses smaller cylinders though (I believe)
+
+The following are the parts that need to be modeled:
+- Engine Block, cylinder head bolts
+- Cylinder heads
+- Pistons, Rods, Rings, End Caps, Bearings
+- Crankshaft, camshaft, connecting gears (crank to cam and cam to magnetos)
+- intake, exhaust, heater
+- starter, magnetos, magneto wires, sparkplugs, spark wires
+- oil pan, lubrication parts, oil pump
+- valves, push rods, lifters, valve springs
+- flywheel, prop connect, prop
+- throttle cable, throttle plate, throttle housing, throttle to fuel hub connect
+- fuel hub, injector fuel lines, line to cylinder head connect
+
+The following are core features, must haves:
+- Parts can not clip each other, clearances can be oversized to prevent this
+- All engine parts modeled
+- The animation
+	+ Engine turns over
+	+ Engine translates each part in exploded view, in order of disassembly
+	+ Engine implodes together and rotates once more, this time with x-ray
+	+ Loop
+
+The following are reach features:
+- Bring the animation to VR
+- Place together parts yourself in VR
+- button/ lever panel in VR to Start engine, choose magnetos (visualize powered lines), and fuel mixture
+
+
+Engine Block:
+- Specs (rounded):
+	+ Bore			80mm
+	+ Stroke		60mm
+	+ Displacement	1206cc
+- For Stoke, take TDC position - 60mm, but knowing connecting rod length means to have both banks set up at the same time
+- Bore doesn't matter too much, just need to get the diameter of the cylinder wall correct
+- use a flatplane crankshaft design, makes it easier to have the crankpins rest in a single flat line
+
+Electric System:
+- Two Spark plugs per cylinder, for redundancy, each connects to a different magneto
+- Two magnetos, Left and Right, just run from a gear directly off of the camshaft
+
+Fuel System:
+
+
+Air System:
+
+
+Lubrication System:
+
+
+Intake/Exhaust System:
+- two valves, just one intake and on exhaust
+
+Cylinder Heads:
+
+
+Misc:
+
+
+
