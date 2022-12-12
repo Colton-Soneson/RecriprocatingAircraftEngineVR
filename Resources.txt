@@ -8,6 +8,8 @@ https://en.wikipedia.org/wiki/Lycoming_O-235
 
 ENGINE OVERVIEWS
 https://www.youtube.com/watch?v=gIdXLMVP6VU&ab_channel=ERAUSpecialVFR
+https://blog.diamondracing.net/understanding-rod-length-compression-height-and-crankshaft-stroke
+https://www.youtube.com/watch?v=C_YNn3ZkJmU&ab_channel=driving4answers
 
 
 WARNING FOR MODEL:
@@ -54,6 +56,9 @@ Engine Block:
 - For Stoke, take TDC position - 60mm, but knowing connecting rod length means to have both banks set up at the same time
 - Bore doesn't matter too much, just need to get the diameter of the cylinder wall correct
 - use a flatplane crankshaft design, makes it easier to have the crankpins rest in a single flat line
+- Math done:
+	+ Rod Length: 160mm
+	+
 
 Electric System:
 - Two Spark plugs per cylinder, for redundancy, each connects to a different magneto
